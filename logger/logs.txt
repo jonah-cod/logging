@@ -1,0 +1,3 @@
+[2022-12-08 10:20:16]: error Something went wrong
+[2022-12-08 10:20:16]: warn Something went wrong
+[2022-12-08 10:20:16]: info Something went wrong
